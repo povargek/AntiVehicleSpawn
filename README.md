@@ -1,6 +1,11 @@
 # AntiVehicleSpawn
 Fix no controled vehicle spawn in SA:MP (OnVehicleDeath)
 
+DEPRECATED, USE A PAWN RAKNET
+=========================
+https://github.com/urShadow/Pawn.RakNet/wiki/AntiVehicleSpawn
+
+
 EXAMPLE
 -----------
         public OnVehicleRequestDeath(vehicleid, killerid)
